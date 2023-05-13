@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ATsite/static/css/main.073c9b0a.css",
-    "main.js": "/ATsite/static/js/main.867a2f52.js",
+    "main.css": "/ATsite/static/css/main.4122e5f4.css",
+    "main.js": "/ATsite/static/js/main.89cadda5.js",
     "static/js/787.e2219e47.chunk.js": "/ATsite/static/js/787.e2219e47.chunk.js",
-    "static/media/logo.svg": "/ATsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ATsite/index.html",
-    "main.073c9b0a.css.map": "/ATsite/static/css/main.073c9b0a.css.map",
-    "main.867a2f52.js.map": "/ATsite/static/js/main.867a2f52.js.map",
+    "main.4122e5f4.css.map": "/ATsite/static/css/main.4122e5f4.css.map",
+    "main.89cadda5.js.map": "/ATsite/static/js/main.89cadda5.js.map",
     "787.e2219e47.chunk.js.map": "/ATsite/static/js/787.e2219e47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.867a2f52.js"
+    "static/css/main.4122e5f4.css",
+    "static/js/main.89cadda5.js"
   ]
 }
