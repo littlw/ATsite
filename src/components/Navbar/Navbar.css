@@ -1,0 +1,12 @@
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+   .menu-container {
+    justify-content: center;
+   }
+    
+}
